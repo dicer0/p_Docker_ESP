@@ -11,4 +11,4 @@ And this specific repository contains documentation on the Docker open source pl
 <br/>
 &nbsp;
 
-[![Docker](http://dicer0.com/wp-content/uploads/2024/07/p_Docker_MkII.png)](https://dicer0.com/#skills)
+[![Docker](http://dicer0.com/wp-content/uploads/2024/07/p_Docker_MkI.png)](https://dicer0.com/#skills)
